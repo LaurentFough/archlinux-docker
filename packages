@@ -1,4 +1,8 @@
-sed
+bat
+fping
 gzip
+micro
+nano
 pacman
+sed
 systemd
